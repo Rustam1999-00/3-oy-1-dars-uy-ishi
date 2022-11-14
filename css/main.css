@@ -1,0 +1,36 @@
+.site-header__inner {
+  align-items: center;
+  background-color: aqua;
+}
+
+.sitart {
+  align-items: center;
+  margin: 0;
+  margin-right: 20px;
+}
+
+.sitart__img {
+  margin: 0;
+  margin-left: 20px;
+}
+
+.hero__title {
+  margin: 50px 0 15px;
+}
+
+.hero__text {
+  text-align: center;
+}
+
+.hero__contents {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.h {
+  font-size: 10px;
+}
+
+.m {
+  background-color: aliceblue;
+}/*# sourceMappingURL=main.css.map */
