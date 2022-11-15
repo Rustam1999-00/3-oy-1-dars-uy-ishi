@@ -1,1 +1,1 @@
-{"version":3,"sources":["../Sass/bloks/_header.scss","main.css","../Sass/bloks/_hero.scss"],"names":[],"mappings":"AAAA;EACI,mBAAA;EACA,sBAAA;ACCJ;;ADCA;EACI,mBAAA;EACA,SAAA;EACJ,kBAAA;ACEA;;ADKA;EACI,SAAA;EACA,iBAAA;ACFJ;;ADIA;EACG,mBAAA;ACDH;;ADGA;EACI,kBAAA;ACAJ;;AClBA;EACA,kBAAA;EACA,cAAA;ADqBA;;ACLA;EACI,eAAA;ADQJ;;ACNA;EACI,2BAAA;ADSJ","file":"main.css"}
+{"version":3,"sources":["../Sass/main.scss","../Sass/bloks/_header.scss","main.css"],"names":[],"mappings":"AACO,wBAAA;ACAP;EACI,kBAAA;ACCJ","file":"main.css"}
